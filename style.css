@@ -1,0 +1,48 @@
+html{
+    width:100%;
+    height: 100%;
+}
+body{
+    width:40%;
+    height: 50%;
+    margin:auto;
+}
+table{
+    width:100%;
+    height: 100%;
+    margin: auto;
+}
+td{
+    text-align:center;
+}
+
+div{
+    text-align:center;
+    border-radius:100px;
+    width:100%;
+    height: 100%;
+}
+
+.skyblue{
+    background:skyblue;
+}
+
+.red{
+    background:red;
+}
+
+.green{
+    background:green;
+}
+
+.yellow{
+    background:yellow;
+}
+
+.purple{
+    background:purple;
+}
+
+
+
+
