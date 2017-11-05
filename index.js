@@ -8,10 +8,11 @@ var selectDrop = null;
                 if(selectDrop == null){
                     selectDrop = this;    
                 }
+
+
+
+                
             });
-
-
-            
 
             $('td').mouseover(function(e){   
                 // console.log("move"); 
@@ -28,3 +29,9 @@ var selectDrop = null;
             });
 
         });
+
+
+
+
+
+//とりあえず、動くようにする。
